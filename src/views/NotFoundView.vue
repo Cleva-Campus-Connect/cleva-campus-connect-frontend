@@ -1,0 +1,1 @@
+<template><div class="center-state"><p class="eyebrow">404</p><h1>That page took a wrong turn.</h1><p>Let’s get you back to the Cleva community.</p><RouterLink class="app-button app-button--primary" to="/">Go home</RouterLink></div></template>

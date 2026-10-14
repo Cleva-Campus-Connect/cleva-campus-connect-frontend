@@ -1,0 +1,1 @@
+<template><div class="center-state"><p class="eyebrow">403</p><h1>This space is private.</h1><p>You do not have permission to view this workspace.</p><RouterLink class="app-button app-button--primary" to="/">Return home</RouterLink></div></template>
